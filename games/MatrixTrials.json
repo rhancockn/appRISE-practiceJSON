@@ -1,0 +1,155 @@
+[
+  {
+    "correctSelection" : "SC04",
+    "selectionTiles" : {
+      "activeTiles" : [
+        true,
+        false,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        false
+      ],
+      "frameKeys" : [
+        "SC01",
+        "",
+        "",
+        "SC04",
+        "",
+        "",
+        "SC03",
+        "",
+        ""
+      ]
+    },
+    "gameboardTiles" : {
+      "activeTiles" : [
+        true,
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frameKeys" : [
+        "SC04",
+        "SC04",
+        "",
+        "SC04",
+        "BLANK",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "correctSelection" : "SC07",
+    "selectionTiles" : {
+      "activeTiles" : [
+        true,
+        false,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        false
+      ],
+      "frameKeys" : [
+        "SC07",
+        "",
+        "",
+        "SC03",
+        "",
+        "",
+        "SC05",
+        "",
+        ""
+      ]
+    },
+    "gameboardTiles" : {
+      "activeTiles" : [
+        true,
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frameKeys" : [
+        "SC07",
+        "SC07",
+        "",
+        "BLANK",
+        "SC07",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  {
+    "correctSelection" : "SC08",
+    "selectionTiles" : {
+      "activeTiles" : [
+        true,
+        true,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        false
+      ],
+      "frameKeys" : [
+        "SC13",
+        "SC08",
+        "",
+        "SC29",
+        "",
+        "",
+        "SC19",
+        "",
+        ""
+      ]
+    },
+    "gameboardTiles" : {
+      "activeTiles" : [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frameKeys" : [
+        "SC01",
+        "SC01",
+        "SC01",
+        "SC05",
+        "SC05",
+        "SC05",
+        "SC08",
+        "SC08",
+        "BLANK"
+      ]
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "correctSymbol" : "BUG",
+    "thoughtTiles" : {
+      "activeTiles" : [
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frameKeys" : [
+        "GRASS",
+        "GRASS",
+        "BUG",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "displaySymbols" : {
+      "symbols" : [
+        "FRUIT",
+        "CAN",
+        "BUG",
+        "GRASS"
+      ]
+    }
+  },
+  {
+    "correctSymbol" : "CAN",
+    "thoughtTiles" : {
+      "activeTiles" : [
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frameKeys" : [
+        "GRASS",
+        "FRUIT",
+        "CAN",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "displaySymbols" : {
+      "symbols" : [
+        "CAN",
+        "BUG",
+        "FRUIT",
+        "GRASS"
+      ]
+    }
+  },
+  {
+    "correctSymbol" : "GRASS",
+    "thoughtTiles" : {
+      "activeTiles" : [
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frameKeys" : [
+        "BUG",
+        "FRUIT",
+        "GRASS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "displaySymbols" : {
+      "symbols" : [
+        "FRUIT",
+        "CAN",
+        "BUG",
+        "GRASS"
+      ]
+    }
+  }
+]

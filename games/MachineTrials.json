@@ -1,0 +1,86 @@
+{
+  "receptive_vocabulary" : [
+    {
+      "1" : [
+        {
+          "activeCells" : [
+            "true",
+            "true",
+            "true",
+            "true"
+          ],
+          "numCOlumns" : "2",
+          "animationKeys" : [
+            "crayon_word.jpg",
+            "crayon_word.jpg",
+            "cookie_word.jpg",
+            "crayon_word.jpg"
+          ],
+          "audioFile" : "cookie_word.wav",
+          "numRows" : "2",
+          "correct" : "cookie_word.jpg"
+        },
+        {
+          "activeCells" : [
+            "true",
+            "true",
+            "true",
+            "true"
+          ],
+          "numCOlumns" : "2",
+          "animationKeys" : [
+            "crayon_word.jpg",
+            "pants_word.jpg",
+            "orange_word.jpg",
+            "cookie_word.jpg"
+          ],
+          "audioFile" : "cookie_word.wav",
+          "numRows" : "2",
+          "correct" : "cookie_word.jpg"
+        }
+      ]
+    }
+  ],
+  "pseudoword_matching" : [
+    {
+      "1" : [
+        {
+          "activeCells" : [
+            "true",
+            "true",
+            "true",
+            "true"
+          ],
+          "numCOlumns" : "2",
+          "animationKeys" : [
+            "wog_word.jpg",
+            "wog_word.jpg",
+            "jat_word.jpg",
+            "wog_word.jpg"
+          ],
+          "audioFile" : "jat_word.wav",
+          "numRows" : "2",
+          "correct" : "jat_word.jpg"
+        },
+        {
+          "activeCells" : [
+            "true",
+            "true",
+            "true",
+            "true"
+          ],
+          "numCOlumns" : "2",
+          "animationKeys" : [
+            "jat_word.jpg",
+            "bab_word.jpg",
+            "seb_word.jpg",
+            "wog_word.jpg"
+          ],
+          "audioFile" : "jat_word.wav",
+          "numRows" : "2",
+          "correct" : "jat_word.jpg"
+        }
+      ]
+    }
+  ]
+}

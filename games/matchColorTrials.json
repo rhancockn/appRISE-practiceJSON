@@ -1,0 +1,50 @@
+[
+  {
+    "characterName" : "GOAT",
+    "correctSelection" : "CAN_BLUE",
+    "correctLocation" : 0,
+    "thought" : "CAN",
+    "leftSign" : "CAN_BLUE",
+    "rightSign" : "GRASS_RED"
+  },
+  {
+    "characterName" : "DOG",
+    "correctSelection" : "GRASS_BLUE",
+    "correctLocation" : 1,
+    "thought" : "GRASS",
+    "leftSign" : "BUG_RED",
+    "rightSign" : "GRASS_BLUE"
+  },
+  {
+    "characterName" : "BLUE_MONSTER",
+    "correctSelection" : "CAN_BLUE",
+    "correctLocation" : 1,
+    "thought" : "BLUE",
+    "leftSign" : "GRASS_RED",
+    "rightSign" : "CAN_BLUE"
+  },
+  {
+    "characterName" : "RED_MONSTER",
+    "correctSelection" : "BUG_RED",
+    "correctLocation" : 0,
+    "thought" : "RED",
+    "leftSign" : "BUG_RED",
+    "rightSign" : "GRASS_BLUE"
+  },
+  {
+    "characterName" : "GOAT",
+    "correctSelection" : "CAN_GREEN",
+    "correctLocation" : 0,
+    "thought" : "CAN",
+    "leftSign" : "CAN_GREEN",
+    "rightSign" : "FRUIT_YELLOW"
+  },
+  {
+    "characterName" : "RED_MONSTER",
+    "correctSelection" : "GRASS_RED",
+    "correctLocation" : 1,
+    "thought" : "RED",
+    "leftSign" : "FRUIT_BLUE",
+    "rightSign" : "GRASS_RED"
+  }
+]
