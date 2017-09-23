@@ -3,8 +3,8 @@
     "correctSymbol" : "BUG",
     "thoughtTiles" : {
       "activeTiles" : [
-        true,
-        true,
+        false,
+        false,
         true,
         false,
         false,
@@ -38,8 +38,8 @@
     "correctSymbol" : "CAN",
     "thoughtTiles" : {
       "activeTiles" : [
-        true,
-        true,
+        false,
+        false,
         true,
         false,
         false,
@@ -73,8 +73,8 @@
     "correctSymbol" : "GRASS",
     "thoughtTiles" : {
       "activeTiles" : [
-        true,
-        true,
+        false,
+        false,
         true,
         false,
         false,
