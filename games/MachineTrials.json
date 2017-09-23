@@ -11,14 +11,14 @@
           ],
           "numCOlumns" : "2",
           "animationKeys" : [
-            "crayon_word.jpg",
-            "crayon_word.jpg",
             "cookie_word.jpg",
-            "crayon_word.jpg"
+            "cookie_word.jpg",
+            "cookie_word.jpg",
+            "pants_word.jpg"
           ],
-          "audioFile" : "cookie_word.wav",
+          "audioFile" : "pants_word.wav",
           "numRows" : "2",
-          "correct" : "cookie_word.jpg"
+          "correct" : "pants_word.jpg"
         },
         {
           "activeCells" : [
@@ -30,13 +30,13 @@
           "numCOlumns" : "2",
           "animationKeys" : [
             "crayon_word.jpg",
+            "cookie_word.jpg",
             "pants_word.jpg",
-            "orange_word.jpg",
-            "cookie_word.jpg"
+            "orange_word.jpg"
           ],
-          "audioFile" : "cookie_word.wav",
+          "audioFile" : "pants_word.wav",
           "numRows" : "2",
-          "correct" : "cookie_word.jpg"
+          "correct" : "pants_word.jpg"
         }
       ]
     }
@@ -53,14 +53,14 @@
           ],
           "numCOlumns" : "2",
           "animationKeys" : [
-            "wog_word.jpg",
-            "wog_word.jpg",
+            "jat_word.jpg",
+            "jat_word.jpg",
             "jat_word.jpg",
             "wog_word.jpg"
           ],
-          "audioFile" : "jat_word.wav",
+          "audioFile" : "wog_word.wav",
           "numRows" : "2",
-          "correct" : "jat_word.jpg"
+          "correct" : "wog_word.jpg"
         },
         {
           "activeCells" : [
@@ -76,9 +76,9 @@
             "seb_word.jpg",
             "wog_word.jpg"
           ],
-          "audioFile" : "jat_word.wav",
+          "audioFile" : "wog_word.wav",
           "numRows" : "2",
-          "correct" : "jat_word.jpg"
+          "correct" : "wog_word.jpg"
         }
       ]
     }
