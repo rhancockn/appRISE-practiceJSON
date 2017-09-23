@@ -11,10 +11,12 @@ N/A
 ## Bug Zap
 ### Phase I
 
-1. One bug, left
+1. One bug, right
 2. One bug, right
 3. Two bugs, left
 4. Two bugs, right
+
+_left bugs cannot be shown for priming trials_
 
 ### Phase II
 
